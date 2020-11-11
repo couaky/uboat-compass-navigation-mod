@@ -1,0 +1,13 @@
+{
+    "name": "Compass Navigation",
+    "version": "1.0.2",
+    "description": "Add a gyro compass meter to the controls.",
+    "author": "Couaky",
+    "minGameVersion": "B126",
+    "maxGameVersion": "B126",
+    "assemblyName": "compass-navigation",
+    "permissions": [
+        "Reflection"
+    ],
+    "steamFileId": 2076341403
+}

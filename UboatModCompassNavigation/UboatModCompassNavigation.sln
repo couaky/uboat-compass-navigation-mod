@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.unity.render-pipelines.core.Runtime", "com.unity.render-pipelines.core.Runtime.csproj", "{6025C21D-3CC0-990F-C81F-A7FAA5515F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "compass-navigation", "compass-navigation.csproj", "{669A1B7E-8869-83E4-9EA1-51F14EE932CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.playway.water", "com.playway.water.csproj", "{97DF11D5-AEBB-60BA-6A0D-BC234865AB72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.unity.render-pipelines.core.Editor", "com.unity.render-pipelines.core.Editor.csproj", "{9B3B5E7F-2EE3-DF4D-1188-CE8CB417C34F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.unity.render-pipelines.core.IncludePaths", "com.unity.render-pipelines.core.IncludePaths.csproj", "{A0F100E1-5466-330B-B7A3-ED9EB19BFC99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.uboat.modding-tools.Editor", "com.uboat.modding-tools.Editor.csproj", "{A94B6680-AC07-D6A0-06CE-90ADC1D4ED2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6025C21D-3CC0-990F-C81F-A7FAA5515F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6025C21D-3CC0-990F-C81F-A7FAA5515F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6025C21D-3CC0-990F-C81F-A7FAA5515F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6025C21D-3CC0-990F-C81F-A7FAA5515F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{669A1B7E-8869-83E4-9EA1-51F14EE932CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669A1B7E-8869-83E4-9EA1-51F14EE932CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669A1B7E-8869-83E4-9EA1-51F14EE932CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669A1B7E-8869-83E4-9EA1-51F14EE932CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97DF11D5-AEBB-60BA-6A0D-BC234865AB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DF11D5-AEBB-60BA-6A0D-BC234865AB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DF11D5-AEBB-60BA-6A0D-BC234865AB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DF11D5-AEBB-60BA-6A0D-BC234865AB72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B3B5E7F-2EE3-DF4D-1188-CE8CB417C34F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3B5E7F-2EE3-DF4D-1188-CE8CB417C34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3B5E7F-2EE3-DF4D-1188-CE8CB417C34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3B5E7F-2EE3-DF4D-1188-CE8CB417C34F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F100E1-5466-330B-B7A3-ED9EB19BFC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F100E1-5466-330B-B7A3-ED9EB19BFC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F100E1-5466-330B-B7A3-ED9EB19BFC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F100E1-5466-330B-B7A3-ED9EB19BFC99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A94B6680-AC07-D6A0-06CE-90ADC1D4ED2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94B6680-AC07-D6A0-06CE-90ADC1D4ED2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94B6680-AC07-D6A0-06CE-90ADC1D4ED2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94B6680-AC07-D6A0-06CE-90ADC1D4ED2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
